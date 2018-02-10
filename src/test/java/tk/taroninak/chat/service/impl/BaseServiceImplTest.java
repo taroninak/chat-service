@@ -1,6 +1,5 @@
 package tk.taroninak.chat.service.impl;
 
-import org.assertj.core.api.Assertions;
 import tk.taroninak.chat.domain.BadWord;
 import org.junit.Assert;
 import org.junit.Before;
